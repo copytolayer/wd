@@ -7,3 +7,4 @@ print("case1, bye")
 print("case2, hi")
 
 print("function1")
+print("task2")
